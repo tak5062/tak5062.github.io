@@ -4,7 +4,7 @@ Bioinformatics Languages Final
 
 # DNA Sequence Analysis in Base R
 
-This project analyzes DNA sequences, identifies open reading frames (ORFs), translates them into amino acids, and computes biochemical properties — all using **pure base R**, no external packages required.
+This project analyzes DNA sequences, identifies open reading frames (ORFs), translates them into amino acids, and computes biochemical properties — all using R without any other packages.
 
 ## 🧬 Features
 
@@ -17,7 +17,7 @@ This project analyzes DNA sequences, identifies open reading frames (ORFs), tran
 - [Download Klochko_languages_final.R](dna_analysis.R)
 - [Download input_dna.txt](input_dna.txt)
 
-Then run it in R:
+running in R:
 
 ```r
 source("Klochko_languages_final.R")
