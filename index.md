@@ -13,4 +13,12 @@ This project analyzes DNA sequences, identifies open reading frames (ORFs), tran
 - Annotates amino acids by polarity, charge
 - Outputs results to a readable `.txt` report
 
+  # download links in website
+- [Download Klochko_languages_final.R](dna_analysis.R)
+- [Download input_dna.txt](input_dna.txt)
+
+Then run it in R:
+
+```r
+source("Klochko_languages_final.R")
 
