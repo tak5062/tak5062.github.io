@@ -1,7 +1,8 @@
 ---
 layout: default
-title:Bioinformatics Languages Final
+title: Bioinformatics Languages Final
 ---
+
 
 # DNA Sequence Analysis in Base R
 
